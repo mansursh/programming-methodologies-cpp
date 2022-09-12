@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment_04_Part_B"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_04_Part_B">
+				<Option output="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Assignment_04_Part_B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_04_Part_B"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Assignment_04_Part_B/fast">
+				<Option output="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Assignment_04_Part_B" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 Assignment_04_Part_B/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/BagInterface.h">
+			<Option target="Assignment_04_Part_B"/>
+		</Unit>
+		<Unit filename="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/Include.h">
+			<Option target="Assignment_04_Part_B"/>
+		</Unit>
+		<Unit filename="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/LinkedBag.cpp">
+			<Option target="Assignment_04_Part_B"/>
+		</Unit>
+		<Unit filename="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/LinkedBag.h">
+			<Option target="Assignment_04_Part_B"/>
+		</Unit>
+		<Unit filename="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/LinkedBag340.cpp">
+			<Option target="Assignment_04_Part_B"/>
+		</Unit>
+		<Unit filename="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/LinkedBagClient340.cpp">
+			<Option target="Assignment_04_Part_B"/>
+		</Unit>
+		<Unit filename="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/Node.cpp">
+			<Option target="Assignment_04_Part_B"/>
+		</Unit>
+		<Unit filename="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/Node.h">
+			<Option target="Assignment_04_Part_B"/>
+		</Unit>
+		<Unit filename="/Users/champchamp/Desktop/Assignment-04-Muzaffar-Sharapov/PartA/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
