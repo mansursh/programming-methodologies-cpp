@@ -1,0 +1,3 @@
+/Users/champchamp/Desktop/340 C++/MuzaffarSharapov-Assignment-03/DictionaryCPP/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/champchamp/Desktop/340 C++/MuzaffarSharapov-Assignment-03/DictionaryCPP/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/champchamp/Desktop/340 C++/MuzaffarSharapov-Assignment-03/DictionaryCPP/cmake-build-debug/CMakeFiles/DictionaryCPP.dir

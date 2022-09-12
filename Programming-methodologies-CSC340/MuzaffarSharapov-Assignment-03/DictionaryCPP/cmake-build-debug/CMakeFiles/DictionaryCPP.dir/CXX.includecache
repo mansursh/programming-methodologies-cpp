@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/champchamp/Desktop/340 C++/MuzaffarSharapov-Assignment-03/DictionaryCPP/main.cpp
+iostream
+-
+vector
+-
+sstream
+-
+fstream
+-
+map
+-
+algorithm
+-
+list
+-
+ctype.h
+-
+cctype
+-
+
